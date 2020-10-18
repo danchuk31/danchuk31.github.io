@@ -1,0 +1,56 @@
+
+.menu__item{
+	font-size: 16.5pt;
+	margin: 0 45px;
+}
+li{
+	display: block;
+	padding: 0px;
+	margin: 0px;
+	top: 30px;
+}
+/* header */
+
+header{
+	background-image: url(BlueCode.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 150px;
+}
+#aboutMe{
+	margin-top: 45px; 
+	color: #FFF;
+	font-family: 'Secular One', sans-serif;
+	margin-right: -50px;
+	background-color: #025167;
+	border-radius: 20px;
+}
+#Works{
+	margin-top: 50px;
+	color: #FFF;
+	font-family: 'Secular One', sans-serif;
+	border-radius: 20px;
+	background-color: #025167;
+	text-align: center; 
+	padding: 10px
+}
+#MySkills{
+	background-image: url(For_My_Skills.jpg);
+	background-size: 125%;
+	background-repeat: no-repeat;
+	color: white;
+	font-family: 'Secular One', sans-serif;
+	padding: 140px;
+}
+
+.interesting_icon{
+	margin: 15px;
+}
+
+#footer{
+	background-color: black;
+	color: white;
+}
+#Contacts{
+	margin: 30px;
+}
